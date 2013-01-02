@@ -68,6 +68,8 @@ for config_file ($ZSH_CUSTOM/*.zsh(N)); do
 done
 unset config_file
 
+
+
 # Load the theme
 if [ "$ZSH_THEME" = "random" ]
 then
